@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on isec
+### 
 
 ## D.king
 <div align="center">
